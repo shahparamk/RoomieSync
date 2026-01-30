@@ -4,4 +4,4 @@ RoomieSync
 • By consolidating expense tracking, chore management, maintenance documentation, and communicationinto one intelligent app.
 • RoomieSync replaces 5-8 disconnected tools with a unified solution designed specifically for roommates.
 
-Prototype Link :- https://app.moqups.com/KeTivarBQbWMyDQkqlLfCCT9vRLwrbni/view/page/aef574cd2
+Prototype Link :- https://www.figma.com/proto/z3CrzaOhklPwrET2vMBU1a/RoomieSync?node-id=0-1&t=B7XEH5Jl3i8so95l-1
